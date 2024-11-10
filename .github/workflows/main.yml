@@ -1,5 +1,4 @@
 name: Run Python
-name: Run Python
 on:
     push:
     schedule:
